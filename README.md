@@ -1,2 +1,2 @@
-# Angular-E-Commerce-WebSite
+# Angular-Ecommerce-WebSite
 A simple E-Commerce Site in angular Framework.
